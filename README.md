@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# image-resizing-frontend
+
+Simple frontend for [image-resizing-service](https://github.com/AGraber/image-resizing-service)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
